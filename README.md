@@ -6,6 +6,6 @@ Discussion and suggestion for organizing SingaporeJS events.
 ## initiatives
 
 - Book Club
-- talk.js
+- [talk.js](events/talkjs.md)
 - NodeSchool Singapore
-- Front End TL;DR
+- [Front End TL;DR](events/tldr.md)
