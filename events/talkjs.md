@@ -1,4 +1,4 @@
-# Talk.js
+# talk.js
 
 ## Requested Topics
 Want to present at Talk.js but not sure what to talk about? Try one of these topics:
