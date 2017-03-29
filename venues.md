@@ -6,7 +6,7 @@ Address: 5 Temasek Blvd, #09-01, Suntec Tower Five, Suntec Tower 5, Singapore 03
 Remarks: Sponsors pizza  
 Contact person(s): @soelynn  
 
-Venue: SPDigital
+Venue: SPDigital  
 Capacity:  
 Address:   
 Remarks:  
@@ -17,3 +17,6 @@ Capacity:
 Address:   
 Remarks:  
 Contact person(s):    
+
+---
+\* _Tip: leave 2 or more spaces after each line to make a line break_
