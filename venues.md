@@ -1,7 +1,11 @@
 # Venues for hosting events
 
-| Venue   | Address | Food | Contact  |
-|---------|---------|------|----------|
-|PayPal   |         |      |          |
-|SPDigital|         |      |@hongkheng|
-|         |         |      |          |
+Venue: PayPal  
+Address:  
+Remarks: Sponsors pizza  
+Contact person(s): @soelynn  
+
+Venue: SPDigital  
+Address:   
+Remarks:  
+Contact person(s): @hongkheng  
