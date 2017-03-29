@@ -19,8 +19,6 @@ Remarks:
 Contact person(s): @notthetup      
 
 ---
-> _Leave 2 or more spaces after each line to make a line break_
-
-> _For privacy, please check if contact person is comfortable sharing their email publicly_
-
-> _Please **DO NOT** share mobile numbers_
+> _Leave 2 or more spaces after each line to make a line break_  
+> _For privacy, please check if contact person is comfortable sharing their email publicly_  
+> _Please **DO NOT** share mobile numbers_  
